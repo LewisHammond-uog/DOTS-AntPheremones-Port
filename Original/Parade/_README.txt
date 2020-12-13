@@ -1,1 +1,0 @@
-See Assets\ParadeSimulator\Documentation\index.html for full documentation.
