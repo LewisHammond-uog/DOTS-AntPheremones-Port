@@ -4,6 +4,6 @@ Using the original OOTS (Object Orientated Technology Stack, Traditional Unity G
 
 ## Project Overview
 
- * Ant Pheromones (Moderate difficulty, concurrent reads and writes): Ants look for food and spread pheromones to influence the pathing of other ants
+Ant Pheromones (Moderate difficulty, concurrent reads and writes): Ants look for food and spread pheromones to influence the pathing of other ants
 
     ![Ant Pheromones](_imgs/AntPhermones.gif?raw=true)
